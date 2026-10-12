@@ -1,0 +1,7 @@
+.github/**
+.vscode/**
+scripts/**
+*.vsix
+SHA256SUMS
+**/.DS_Store
+.gitignore

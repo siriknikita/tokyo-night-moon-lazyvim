@@ -1,0 +1,46 @@
+{
+  "name": "tokyo-night-moon-lazyvim",
+  "displayName": "Tokyo Night Moon + LazyVim Icons",
+  "description": "A customized Tokyo Night Moon color theme with LazyVim-style Nerd Font file icons",
+  "version": "1.0.0",
+  "publisher": "siriknikita",
+  "license": "SEE LICENSE IN LICENSE",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/siriknikita/tokyo-night-moon-lazyvim.git"
+  },
+  "engines": {
+    "vscode": "^1.80.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "keywords": [
+    "tokyo night",
+    "tokyonight",
+    "moon",
+    "lazyvim",
+    "nerd font",
+    "icons"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Tokyo Night Moon (Custom)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/tokyo-night-moon-custom-color-theme.json"
+      }
+    ],
+    "iconThemes": [
+      {
+        "id": "lazyvim-devicons",
+        "label": "LazyVim Devicons",
+        "path": "./icons/lazyvim-icon-theme.json"
+      }
+    ]
+  },
+  "scripts": {
+    "icons": "node scripts/generate-icons.mjs",
+    "package": "npx --yes @vscode/vsce@3.7.1 package --no-dependencies"
+  }
+}

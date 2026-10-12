@@ -1,0 +1,4212 @@
+{
+  "fonts": [
+    {
+      "id": "nerdfonts",
+      "src": [
+        {
+          "path": "./fonts/JetBrainsMonoNerdFont-Regular.ttf",
+          "format": "truetype"
+        }
+      ],
+      "weight": "normal",
+      "style": "normal",
+      "size": "100%"
+    }
+  ],
+  "iconDefinitions": {
+    "_default": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#82aaff"
+    },
+    "_folder": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#82aaff"
+    },
+    "_folder_open": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#82aaff"
+    },
+    "_ext_3gp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_3mf": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_7z": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_Dockerfile": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_ext_R": {
+      "fontCharacter": "󰟔",
+      "fontId": "nerdfonts",
+      "fontColor": "#2266BA"
+    },
+    "_ext_a": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DCDDD6"
+    },
+    "_ext_aac": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_ada": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#599EFF"
+    },
+    "_ext_adb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#599EFF"
+    },
+    "_ext_ads": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_ai": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_aif": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_aiff": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_android": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#34A853"
+    },
+    "_ext_ape": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_apk": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#34A853"
+    },
+    "_ext_apl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#24A148"
+    },
+    "_ext_app": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_applescript": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8085"
+    },
+    "_ext_asc": {
+      "fontCharacter": "󰦝",
+      "fontId": "nerdfonts",
+      "fontColor": "#576D7F"
+    },
+    "_ext_asm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0091BD"
+    },
+    "_ext_ass": {
+      "fontCharacter": "󰨖",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB713"
+    },
+    "_ext_astro": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E23F67"
+    },
+    "_ext_avif": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_awk": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D5A5E"
+    },
+    "_ext_azcli": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0078D4"
+    },
+    "_ext_bak": {
+      "fontCharacter": "󰁯",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_bash": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_bat": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#C1F12E"
+    },
+    "_ext_bazel": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_bib": {
+      "fontCharacter": "󱉟",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_bicep": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_bicepparam": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F74B3"
+    },
+    "_ext_bin": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_blade_php": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F05340"
+    },
+    "_ext_blend": {
+      "fontCharacter": "󰂫",
+      "fontId": "nerdfonts",
+      "fontColor": "#EA7600"
+    },
+    "_ext_blp": {
+      "fontCharacter": "󰺾",
+      "fontId": "nerdfonts",
+      "fontColor": "#5796E2"
+    },
+    "_ext_bmp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_bqn": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#24A148"
+    },
+    "_ext_brep": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_bz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_bz2": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_bz3": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_bzl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_c": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#599EFF"
+    },
+    "_ext_c__": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F34B7D"
+    },
+    "_ext_cache": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_cast": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_cbl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005CA5"
+    },
+    "_ext_cc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F34B7D"
+    },
+    "_ext_ccm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F34B7D"
+    },
+    "_ext_cfc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#01A4BA"
+    },
+    "_ext_cfg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_cfm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#01A4BA"
+    },
+    "_ext_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_clj": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8DC149"
+    },
+    "_ext_cljc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8DC149"
+    },
+    "_ext_cljd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cljs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cmake": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DCE3EB"
+    },
+    "_ext_cob": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005CA5"
+    },
+    "_ext_cobol": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005CA5"
+    },
+    "_ext_coffee": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_conda": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#43B02A"
+    },
+    "_ext_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_config_ru": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_ext_cow": {
+      "fontCharacter": "󰆚",
+      "fontId": "nerdfonts",
+      "fontColor": "#965824"
+    },
+    "_ext_cp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cpp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cppm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cpy": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005CA5"
+    },
+    "_ext_cr": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#C8C8C8"
+    },
+    "_ext_crdownload": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#44CDA8"
+    },
+    "_ext_cs": {
+      "fontCharacter": "󰌛",
+      "fontId": "nerdfonts",
+      "fontColor": "#596706"
+    },
+    "_ext_csh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D5A5E"
+    },
+    "_ext_cshtml": {
+      "fontCharacter": "󱦗",
+      "fontId": "nerdfonts",
+      "fontColor": "#512BD4"
+    },
+    "_ext_cson": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_csproj": {
+      "fontCharacter": "󰪮",
+      "fontId": "nerdfonts",
+      "fontColor": "#512BD4"
+    },
+    "_ext_css": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#663399"
+    },
+    "_ext_csv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_cts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cu": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_cue": {
+      "fontCharacter": "󰲹",
+      "fontId": "nerdfonts",
+      "fontColor": "#ED95AE"
+    },
+    "_ext_cuh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_cxx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_cxxm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_d": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#B03931"
+    },
+    "_ext_d_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D59855"
+    },
+    "_ext_dart": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#03589C"
+    },
+    "_ext_db": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DAD8D8"
+    },
+    "_ext_dconf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_desktop": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#563D7C"
+    },
+    "_ext_diff": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#41535B"
+    },
+    "_ext_dll": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D2C0B"
+    },
+    "_ext_doc": {
+      "fontCharacter": "󰈬",
+      "fontId": "nerdfonts",
+      "fontColor": "#185ABD"
+    },
+    "_ext_dockerignore": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_ext_docx": {
+      "fontCharacter": "󰈬",
+      "fontId": "nerdfonts",
+      "fontColor": "#185ABD"
+    },
+    "_ext_dot": {
+      "fontCharacter": "󱁉",
+      "fontId": "nerdfonts",
+      "fontColor": "#30638E"
+    },
+    "_ext_download": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#44CDA8"
+    },
+    "_ext_drl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFAFAF"
+    },
+    "_ext_dropbox": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0061FE"
+    },
+    "_ext_dump": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DAD8D8"
+    },
+    "_ext_dwg": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_dxf": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_ebook": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EAB16D"
+    },
+    "_ext_ebuild": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4C416E"
+    },
+    "_ext_edn": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_eex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_ejs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_el": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8172BE"
+    },
+    "_ext_elc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8172BE"
+    },
+    "_ext_elf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_elm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_eln": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8172BE"
+    },
+    "_ext_env": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FAF743"
+    },
+    "_ext_eot": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_epp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA61A"
+    },
+    "_ext_epub": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EAB16D"
+    },
+    "_ext_erb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_ext_erl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#B83998"
+    },
+    "_ext_ex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_exe": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_exs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_f_": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_f3d": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_f90": {
+      "fontCharacter": "󱈚",
+      "fontId": "nerdfonts",
+      "fontColor": "#734F96"
+    },
+    "_ext_fbx": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_fcbak": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcmacro": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcmat": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcparam": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcscript": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcstd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fcstd1": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fctb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fctl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_ext_fdmdownload": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#44CDA8"
+    },
+    "_ext_feature": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A818"
+    },
+    "_ext_fish": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D5A5E"
+    },
+    "_ext_flac": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_flc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_flf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_fnl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFF3D7"
+    },
+    "_ext_fodg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFB57"
+    },
+    "_ext_fodp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FE9C45"
+    },
+    "_ext_fods": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#78FC4E"
+    },
+    "_ext_fodt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2DCBFD"
+    },
+    "_ext_frag": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5586A6"
+    },
+    "_ext_fs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_fsi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_fsscript": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_fsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_gcode": {
+      "fontCharacter": "󰐫",
+      "fontId": "nerdfonts",
+      "fontColor": "#1471AD"
+    },
+    "_ext_gd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_gemspec": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_ext_geom": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5586A6"
+    },
+    "_ext_gif": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_git": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F14C28"
+    },
+    "_ext_glb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB13B"
+    },
+    "_ext_gleam": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFAFF3"
+    },
+    "_ext_glsl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5586A6"
+    },
+    "_ext_gnumakefile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_go": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00ADD8"
+    },
+    "_ext_godot": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_gpr": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_gql": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E535AB"
+    },
+    "_ext_gradle": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_ext_graphql": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E535AB"
+    },
+    "_ext_gresource": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_gv": {
+      "fontCharacter": "󱁉",
+      "fontId": "nerdfonts",
+      "fontColor": "#30638E"
+    },
+    "_ext_gz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_h": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_haml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EAEAE1"
+    },
+    "_ext_hbs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F0772B"
+    },
+    "_ext_heex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_hex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2E63FF"
+    },
+    "_ext_hh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_hpp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_hrl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#B83998"
+    },
+    "_ext_hs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_htm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E34C26"
+    },
+    "_ext_html": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E44D26"
+    },
+    "_ext_http": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#008EC7"
+    },
+    "_ext_huff": {
+      "fontCharacter": "󰡘",
+      "fontId": "nerdfonts",
+      "fontColor": "#4242C7"
+    },
+    "_ext_hurl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF0288"
+    },
+    "_ext_hx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EA8220"
+    },
+    "_ext_hxx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_ical": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B2E83"
+    },
+    "_ext_icalendar": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B2E83"
+    },
+    "_ext_ico": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_ics": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B2E83"
+    },
+    "_ext_ifb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B2E83"
+    },
+    "_ext_ifc": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_ige": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_iges": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_igs": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_image": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BEC8"
+    },
+    "_ext_img": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BEC8"
+    },
+    "_ext_import": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_info": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFCD"
+    },
+    "_ext_ini": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_ino": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#56B6C2"
+    },
+    "_ext_ipynb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F57D01"
+    },
+    "_ext_iso": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BEC8"
+    },
+    "_ext_ixx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_jar": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ffaf67"
+    },
+    "_ext_java": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_ext_jl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A270BA"
+    },
+    "_ext_jpeg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_jpg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_json5": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_jsonc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_jsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_ext_jwmrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0078CD"
+    },
+    "_ext_jxl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_kbx": {
+      "fontCharacter": "󰯄",
+      "fontId": "nerdfonts",
+      "fontColor": "#737672"
+    },
+    "_ext_kdb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#529B34"
+    },
+    "_ext_kdbx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#529B34"
+    },
+    "_ext_kdenlive": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#83B8F2"
+    },
+    "_ext_kdenlivetitle": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#83B8F2"
+    },
+    "_ext_kicad_dru": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_mod": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_pcb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_prl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_pro": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_sch": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_sym": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_kicad_wks": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_ext_ko": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DCDDD6"
+    },
+    "_ext_kpp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F245FB"
+    },
+    "_ext_kra": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F245FB"
+    },
+    "_ext_krz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F245FB"
+    },
+    "_ext_ksh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D5A5E"
+    },
+    "_ext_kt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7F52FF"
+    },
+    "_ext_kts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7F52FF"
+    },
+    "_ext_lck": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#BBBBBB"
+    },
+    "_ext_leex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_less": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#563D7C"
+    },
+    "_ext_lff": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_lhs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_lib": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D2C0B"
+    },
+    "_ext_license": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_liquid": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#95BF47"
+    },
+    "_ext_lock": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#BBBBBB"
+    },
+    "_ext_log": {
+      "fontCharacter": "󰌱",
+      "fontId": "nerdfonts",
+      "fontColor": "#DDDDDD"
+    },
+    "_ext_lrc": {
+      "fontCharacter": "󰨖",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB713"
+    },
+    "_ext_lua": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#51A0CF"
+    },
+    "_ext_luac": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#51A0CF"
+    },
+    "_ext_luau": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_ext_m": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#599EFF"
+    },
+    "_ext_m3u": {
+      "fontCharacter": "󰲹",
+      "fontId": "nerdfonts",
+      "fontColor": "#ED95AE"
+    },
+    "_ext_m3u8": {
+      "fontCharacter": "󰲹",
+      "fontId": "nerdfonts",
+      "fontColor": "#ED95AE"
+    },
+    "_ext_m4a": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_m4v": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_magnet": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A51B16"
+    },
+    "_ext_makefile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_markdown": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DDDDDD"
+    },
+    "_ext_material": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#B83998"
+    },
+    "_ext_md": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DDDDDD"
+    },
+    "_ext_md5": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_mdx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_mint": {
+      "fontCharacter": "󰌪",
+      "fontId": "nerdfonts",
+      "fontColor": "#87C095"
+    },
+    "_ext_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F1E05A"
+    },
+    "_ext_mk": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_mkv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_ml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_mli": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_mm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_mo": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9772FB"
+    },
+    "_ext_mobi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EAB16D"
+    },
+    "_ext_mojo": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4C1F"
+    },
+    "_ext_mov": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_mp3": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_mp4": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_mpp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_msf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#137BE1"
+    },
+    "_ext_mts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_mustache": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_nfo": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFCD"
+    },
+    "_ext_nim": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F3D400"
+    },
+    "_ext_nix": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7EBAE4"
+    },
+    "_ext_norg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4878BE"
+    },
+    "_ext_nswag": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#85EA2D"
+    },
+    "_ext_nu": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#3AA675"
+    },
+    "_ext_o": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_obj": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_odf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF5A96"
+    },
+    "_ext_odg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFB57"
+    },
+    "_ext_odin": {
+      "fontCharacter": "󰟢",
+      "fontId": "nerdfonts",
+      "fontColor": "#3882D2"
+    },
+    "_ext_odp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FE9C45"
+    },
+    "_ext_ods": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#78FC4E"
+    },
+    "_ext_odt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2DCBFD"
+    },
+    "_ext_oga": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_ogg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_ogv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_ogx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_opus": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_org": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#77AA99"
+    },
+    "_ext_otf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_out": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9F0500"
+    },
+    "_ext_part": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#44CDA8"
+    },
+    "_ext_patch": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#41535B"
+    },
+    "_ext_pck": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_pcm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_pdf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#B30B00"
+    },
+    "_ext_php": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_pl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_pls": {
+      "fontCharacter": "󰲹",
+      "fontId": "nerdfonts",
+      "fontColor": "#ED95AE"
+    },
+    "_ext_ply": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_pm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_png": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_po": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2596BE"
+    },
+    "_ext_pot": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2596BE"
+    },
+    "_ext_pp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA61A"
+    },
+    "_ext_ppt": {
+      "fontCharacter": "󰈧",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB4A32"
+    },
+    "_ext_pptx": {
+      "fontCharacter": "󰈧",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB4A32"
+    },
+    "_ext_prisma": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5A67D8"
+    },
+    "_ext_pro": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E4B854"
+    },
+    "_ext_ps1": {
+      "fontCharacter": "󰨊",
+      "fontId": "nerdfonts",
+      "fontColor": "#4273CA"
+    },
+    "_ext_psb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_psd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_psd1": {
+      "fontCharacter": "󰨊",
+      "fontId": "nerdfonts",
+      "fontColor": "#6975C4"
+    },
+    "_ext_psm1": {
+      "fontCharacter": "󰨊",
+      "fontId": "nerdfonts",
+      "fontColor": "#6975C4"
+    },
+    "_ext_pub": {
+      "fontCharacter": "󰷖",
+      "fontId": "nerdfonts",
+      "fontColor": "#E3C58E"
+    },
+    "_ext_pxd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5AA7E4"
+    },
+    "_ext_pxi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5AA7E4"
+    },
+    "_ext_py": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFBC03"
+    },
+    "_ext_pyc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFE291"
+    },
+    "_ext_pyd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFE291"
+    },
+    "_ext_pyi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFBC03"
+    },
+    "_ext_pyo": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFE291"
+    },
+    "_ext_pyw": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5AA7E4"
+    },
+    "_ext_pyx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5AA7E4"
+    },
+    "_ext_qm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2596BE"
+    },
+    "_ext_qml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#40CD52"
+    },
+    "_ext_qrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#40CD52"
+    },
+    "_ext_qss": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#40CD52"
+    },
+    "_ext_query": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#90A850"
+    },
+    "_ext_r": {
+      "fontCharacter": "󰟔",
+      "fontId": "nerdfonts",
+      "fontColor": "#2266BA"
+    },
+    "_ext_rake": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_ext_rar": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_rasi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_razor": {
+      "fontCharacter": "󱦘",
+      "fontId": "nerdfonts",
+      "fontColor": "#512BD4"
+    },
+    "_ext_rb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_ext_res": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_ext_resi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F55385"
+    },
+    "_ext_rlib": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DEA584"
+    },
+    "_ext_rmd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_rproj": {
+      "fontCharacter": "󰗆",
+      "fontId": "nerdfonts",
+      "fontColor": "#358A5B"
+    },
+    "_ext_rs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DEA584"
+    },
+    "_ext_rss": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FB9D3B"
+    },
+    "_ext_s": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0071C5"
+    },
+    "_ext_sass": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F55385"
+    },
+    "_ext_sbt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_ext_sc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_ext_scad": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F9D72C"
+    },
+    "_ext_scala": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_ext_scm": {
+      "fontCharacter": "󰘧",
+      "fontId": "nerdfonts",
+      "fontColor": "#EEEEEE"
+    },
+    "_ext_scss": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F55385"
+    },
+    "_ext_sh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4D5A5E"
+    },
+    "_ext_sha1": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_sha224": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_sha256": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_sha384": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_sha512": {
+      "fontCharacter": "󰕥",
+      "fontId": "nerdfonts",
+      "fontColor": "#8C86AF"
+    },
+    "_ext_sig": {
+      "fontCharacter": "󰘧",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_signature": {
+      "fontCharacter": "󰘧",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_skp": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_sldasm": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_sldprt": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_slim": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E34C26"
+    },
+    "_ext_sln": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#854CC7"
+    },
+    "_ext_slnx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#854CC7"
+    },
+    "_ext_slvs": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_sml": {
+      "fontCharacter": "󰘧",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_so": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DCDDD6"
+    },
+    "_ext_sol": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_spec_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_spec_jsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_ext_spec_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_spec_tsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1354BF"
+    },
+    "_ext_spx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0075AA"
+    },
+    "_ext_sql": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DAD8D8"
+    },
+    "_ext_sqlite": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DAD8D8"
+    },
+    "_ext_sqlite3": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DAD8D8"
+    },
+    "_ext_srt": {
+      "fontCharacter": "󰨖",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB713"
+    },
+    "_ext_ssa": {
+      "fontCharacter": "󰨖",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB713"
+    },
+    "_ext_ste": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_step": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_stl": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_stories_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_jsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_svelte": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_tsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stories_vue": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4785"
+    },
+    "_ext_stp": {
+      "fontCharacter": "󰻫",
+      "fontId": "nerdfonts",
+      "fontColor": "#839463"
+    },
+    "_ext_strings": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2596BE"
+    },
+    "_ext_styl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8DC149"
+    },
+    "_ext_sub": {
+      "fontCharacter": "󰨖",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB713"
+    },
+    "_ext_sublime": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_suo": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#854CC7"
+    },
+    "_ext_sv": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_svelte": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF3E00"
+    },
+    "_ext_svg": {
+      "fontCharacter": "󰜡",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB13B"
+    },
+    "_ext_svgz": {
+      "fontCharacter": "󰜡",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFB13B"
+    },
+    "_ext_svh": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_swift": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_t": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_tbc": {
+      "fontCharacter": "󰛓",
+      "fontId": "nerdfonts",
+      "fontColor": "#1E5CB3"
+    },
+    "_ext_tcl": {
+      "fontCharacter": "󰛓",
+      "fontId": "nerdfonts",
+      "fontColor": "#1E5CB3"
+    },
+    "_ext_templ": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DBBD30"
+    },
+    "_ext_terminal": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#31B53E"
+    },
+    "_ext_test_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_ext_test_jsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_ext_test_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_test_tsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1354BF"
+    },
+    "_ext_tex": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#3D6117"
+    },
+    "_ext_tf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5F43E9"
+    },
+    "_ext_tfvars": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5F43E9"
+    },
+    "_ext_tgz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_tmpl": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DBBD30"
+    },
+    "_ext_tmux": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#14BA19"
+    },
+    "_ext_toml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#9C4221"
+    },
+    "_ext_torrent": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#44CDA8"
+    },
+    "_ext_tres": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_tscn": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_tsconfig": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF8700"
+    },
+    "_ext_tsx": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1354BF"
+    },
+    "_ext_ttf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_twig": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8DC149"
+    },
+    "_ext_txt": {
+      "fontCharacter": "󰈙",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_txz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_typ": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0DBCC0"
+    },
+    "_ext_typoscript": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF8700"
+    },
+    "_ext_ui": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#015BF0"
+    },
+    "_ext_v": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_vala": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7B3DB9"
+    },
+    "_ext_vert": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5586A6"
+    },
+    "_ext_vh": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_vhd": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_vhdl": {
+      "fontCharacter": "󰍛",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_vi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FEC60A"
+    },
+    "_ext_vim": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_ext_vsh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5D87BF"
+    },
+    "_ext_vsix": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#854CC7"
+    },
+    "_ext_vue": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#8DC149"
+    },
+    "_ext_wasm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5C4CDB"
+    },
+    "_ext_wav": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_webm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_webmanifest": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F1E05A"
+    },
+    "_ext_webp": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_ext_webpack": {
+      "fontCharacter": "󰜫",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_wma": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_wmv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD971F"
+    },
+    "_ext_woff": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_woff2": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECECEC"
+    },
+    "_ext_wrl": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_wrz": {
+      "fontCharacter": "󰆧",
+      "fontId": "nerdfonts",
+      "fontColor": "#888888"
+    },
+    "_ext_wv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_wvc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AFFF"
+    },
+    "_ext_x": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#599EFF"
+    },
+    "_ext_xaml": {
+      "fontCharacter": "󰙳",
+      "fontId": "nerdfonts",
+      "fontColor": "#512BD4"
+    },
+    "_ext_xcf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#635B46"
+    },
+    "_ext_xcplayground": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_xcstrings": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2596BE"
+    },
+    "_ext_xls": {
+      "fontCharacter": "󰈛",
+      "fontId": "nerdfonts",
+      "fontColor": "#207245"
+    },
+    "_ext_xlsx": {
+      "fontCharacter": "󰈛",
+      "fontId": "nerdfonts",
+      "fontColor": "#207245"
+    },
+    "_ext_xm": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_ext_xml": {
+      "fontCharacter": "󰗀",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_xpi": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF1B01"
+    },
+    "_ext_xslt": {
+      "fontCharacter": "󰗀",
+      "fontId": "nerdfonts",
+      "fontColor": "#33A9DC"
+    },
+    "_ext_xul": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_ext_xz": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_yaml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_yml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_ext_zig": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F69A1B"
+    },
+    "_ext_zip": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext_zsh": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_ext_zst": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#ECA517"
+    },
+    "_ext___": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF4C1F"
+    },
+    "_name_vite_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name_vite_config_cts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name_vite_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name_vite_config_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name_vite_config_mts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name_vite_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFA800"
+    },
+    "_name__SRCINFO": {
+      "fontCharacter": "󰣇",
+      "fontId": "nerdfonts",
+      "fontColor": "#0F94D2"
+    },
+    "_name__Xauthority": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    },
+    "_name__Xresources": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    },
+    "_name__babelrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_name__bash_profile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name__bashrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name__clang_format": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name__clang_tidy": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name__codespellrc": {
+      "fontCharacter": "󰓆",
+      "fontId": "nerdfonts",
+      "fontColor": "#35DA60"
+    },
+    "_name__condarc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#43B02A"
+    },
+    "_name__dockerignore": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name__ds_store": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#41535B"
+    },
+    "_name__editorconfig": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFF2F2"
+    },
+    "_name__env": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FAF743"
+    },
+    "_name__eslintignore": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name__eslintrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name__git_blame_ignore_revs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__gitattributes": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__gitconfig": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__gitignore": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__gitlab_ci_yml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E24329"
+    },
+    "_name__gitmodules": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__gtkrc_2_0": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name__gvimrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_name__justfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name__luacheckrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_name__luaurc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_name__mailmap": {
+      "fontCharacter": "󰊢",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name__nanorc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#440077"
+    },
+    "_name__npmignore": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8274B"
+    },
+    "_name__npmrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8274B"
+    },
+    "_name__nuxtrc": {
+      "fontCharacter": "󱄆",
+      "fontId": "nerdfonts",
+      "fontColor": "#00C58E"
+    },
+    "_name__nvmrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#5FA04E"
+    },
+    "_name__pnpmfile_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F9AD02"
+    },
+    "_name__pre_commit_config_yaml": {
+      "fontCharacter": "󰛢",
+      "fontId": "nerdfonts",
+      "fontColor": "#F8B424"
+    },
+    "_name__prettierignore": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_json5": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_toml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_yaml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__prettierrc_yml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name__pylintrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name__settings_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#854CC7"
+    },
+    "_name__vimrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#019833"
+    },
+    "_name__xinitrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    },
+    "_name__xsession": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    },
+    "_name__zprofile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name__zshenv": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name__zshrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name_AUTHORS": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A172FF"
+    },
+    "_name_AUTHORS_txt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A172FF"
+    },
+    "_name_Directory_Build_props": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_name_Directory_Build_targets": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_name_Directory_Packages_props": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00A2FF"
+    },
+    "_name_FreeCAD_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CB333B"
+    },
+    "_name_Gemfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_name_Jenkinsfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D33833"
+    },
+    "_name_PKGBUILD": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0F94D2"
+    },
+    "_name_PrusaSlicer_ini": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EC6B23"
+    },
+    "_name_PrusaSlicerGcodeViewer_ini": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EC6B23"
+    },
+    "_name_QtProject_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#40CD52"
+    },
+    "_name_brewfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_name_bspwmrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2F2F2F"
+    },
+    "_name_build": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name_build_gradle": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_name_build_zig_zon": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F69A1B"
+    },
+    "_name_bun_lock": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EADCD1"
+    },
+    "_name_bun_lockb": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#EADCD1"
+    },
+    "_name_cantorrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1C99F3"
+    },
+    "_name_checkhealth": {
+      "fontCharacter": "󰓙",
+      "fontId": "nerdfonts",
+      "fontColor": "#75B4FB"
+    },
+    "_name_cmakelists_txt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#DCE3EB"
+    },
+    "_name_code_of_conduct": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E41662"
+    },
+    "_name_code_of_conduct_md": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E41662"
+    },
+    "_name_commit_editmsg": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F54D27"
+    },
+    "_name_commitlint_config_js": {
+      "fontCharacter": "󰜘",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B9689"
+    },
+    "_name_commitlint_config_ts": {
+      "fontCharacter": "󰜘",
+      "fontId": "nerdfonts",
+      "fontColor": "#2B9689"
+    },
+    "_name_compose_yaml": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_compose_yml": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_config": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name_containerfile": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_copying": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_name_copying_lesser": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_name_docker_compose_yaml": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_docker_compose_yml": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_dockerfile": {
+      "fontCharacter": "󰡨",
+      "fontId": "nerdfonts",
+      "fontColor": "#458EE6"
+    },
+    "_name_eslint_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name_eslint_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name_eslint_config_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name_eslint_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4B32C3"
+    },
+    "_name_ext_typoscript_setup_txt": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF8700"
+    },
+    "_name_favicon_ico": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CBCB41"
+    },
+    "_name_fp_info_cache": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_fp_lib_table": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_gnumakefile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name_go_mod": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00ADD8"
+    },
+    "_name_go_sum": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00ADD8"
+    },
+    "_name_go_work": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00ADD8"
+    },
+    "_name_gradle_wrapper_properties": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_name_gradle_properties": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_name_gradlew": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_name_groovy": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4A687C"
+    },
+    "_name_gruntfile_babel_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_name_gruntfile_coffee": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_name_gruntfile_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_name_gruntfile_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E37933"
+    },
+    "_name_gtkrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_gulpfile_babel_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_name_gulpfile_coffee": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_name_gulpfile_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_name_gulpfile_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#CC3E44"
+    },
+    "_name_hypridle_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_hyprland_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_hyprlandd_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_hyprlock_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_hyprpaper_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_hyprsunset_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_i18n_config_js": {
+      "fontCharacter": "󰗊",
+      "fontId": "nerdfonts",
+      "fontColor": "#7986CB"
+    },
+    "_name_i18n_config_ts": {
+      "fontCharacter": "󰗊",
+      "fontId": "nerdfonts",
+      "fontColor": "#7986CB"
+    },
+    "_name_i3blocks_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8EBEE"
+    },
+    "_name_i3status_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8EBEE"
+    },
+    "_name_index_theme": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2DB96F"
+    },
+    "_name_ionic_config_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4F8FF7"
+    },
+    "_name_justfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name_kalgebrarc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1C99F3"
+    },
+    "_name_kdeglobals": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1C99F3"
+    },
+    "_name_kdenlive_layoutsrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#83B8F2"
+    },
+    "_name_kdenliverc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#83B8F2"
+    },
+    "_name_kritadisplayrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F245FB"
+    },
+    "_name_kritarc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F245FB"
+    },
+    "_name_license": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BF41"
+    },
+    "_name_license_md": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BF41"
+    },
+    "_name_lxde_rc_xml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#909090"
+    },
+    "_name_lxqt_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#0192D3"
+    },
+    "_name_makefile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#6D8086"
+    },
+    "_name_mix_lock": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_name_mpv_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#3B1342"
+    },
+    "_name_next_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_next_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_next_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_node_modules": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8274B"
+    },
+    "_name_nuxt_config_cjs": {
+      "fontCharacter": "󱄆",
+      "fontId": "nerdfonts",
+      "fontColor": "#00C58E"
+    },
+    "_name_nuxt_config_js": {
+      "fontCharacter": "󱄆",
+      "fontId": "nerdfonts",
+      "fontColor": "#00C58E"
+    },
+    "_name_nuxt_config_mjs": {
+      "fontCharacter": "󱄆",
+      "fontId": "nerdfonts",
+      "fontColor": "#00C58E"
+    },
+    "_name_nuxt_config_ts": {
+      "fontCharacter": "󱄆",
+      "fontId": "nerdfonts",
+      "fontColor": "#00C58E"
+    },
+    "_name_package_lock_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7A0D21"
+    },
+    "_name_package_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E8274B"
+    },
+    "_name_platformio_ini": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F6822B"
+    },
+    "_name_playwright_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_playwright_config_cts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_playwright_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_playwright_config_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_playwright_config_mts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_playwright_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2FAD33"
+    },
+    "_name_pnpm_lock_yaml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F9AD02"
+    },
+    "_name_pnpm_workspace_yaml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F9AD02"
+    },
+    "_name_pom_xml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#7A0D21"
+    },
+    "_name_prettier_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name_prettier_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name_prettier_config_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name_prettier_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#4285F4"
+    },
+    "_name_procfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#A074C4"
+    },
+    "_name_py_typed": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFBC03"
+    },
+    "_name_rakefile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#701516"
+    },
+    "_name_readme": {
+      "fontCharacter": "󰂺",
+      "fontId": "nerdfonts",
+      "fontColor": "#EDEDED"
+    },
+    "_name_readme_md": {
+      "fontCharacter": "󰂺",
+      "fontId": "nerdfonts",
+      "fontColor": "#EDEDED"
+    },
+    "_name_rmd": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_name_robots_txt": {
+      "fontCharacter": "󰚩",
+      "fontId": "nerdfonts",
+      "fontColor": "#5D7096"
+    },
+    "_name_security": {
+      "fontCharacter": "󰒃",
+      "fontId": "nerdfonts",
+      "fontColor": "#BEC4C9"
+    },
+    "_name_security_md": {
+      "fontCharacter": "󰒃",
+      "fontId": "nerdfonts",
+      "fontColor": "#BEC4C9"
+    },
+    "_name_settings_gradle": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#005F87"
+    },
+    "_name_svelte_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FF3E00"
+    },
+    "_name_sxhkdrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#2F2F2F"
+    },
+    "_name_sym_lib_table": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_tailwind_config_js": {
+      "fontCharacter": "󱏿",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_name_tailwind_config_mjs": {
+      "fontCharacter": "󱏿",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_name_tailwind_config_ts": {
+      "fontCharacter": "󱏿",
+      "fontId": "nerdfonts",
+      "fontColor": "#20C2E3"
+    },
+    "_name_tmux_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#14BA19"
+    },
+    "_name_tmux_conf_local": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#14BA19"
+    },
+    "_name_tsconfig_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_name_unlicense": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#D0BF41"
+    },
+    "_name_vagrantfile": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#1563FF"
+    },
+    "_name_vercel_json": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFFFFF"
+    },
+    "_name_vitest_config_cjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vitest_config_cts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vitest_config_js": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vitest_config_mjs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vitest_config_mts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vitest_config_ts": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#739B1B"
+    },
+    "_name_vlcrc": {
+      "fontCharacter": "󰕼",
+      "fontId": "nerdfonts",
+      "fontColor": "#EE7A00"
+    },
+    "_name_webpack": {
+      "fontCharacter": "󰜫",
+      "fontId": "nerdfonts",
+      "fontColor": "#519ABA"
+    },
+    "_name_weston_ini": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FFBB01"
+    },
+    "_name_workspace": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#89E051"
+    },
+    "_name_wrangler_jsonc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F48120"
+    },
+    "_name_wrangler_toml": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#F48120"
+    },
+    "_name_xdph_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#00AAAE"
+    },
+    "_name_xmobarrc": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD4D5D"
+    },
+    "_name_xmobarrc_hs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD4D5D"
+    },
+    "_name_xmonad_hs": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#FD4D5D"
+    },
+    "_name_xorg_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    },
+    "_name_xsettingsd_conf": {
+      "fontCharacter": "",
+      "fontId": "nerdfonts",
+      "fontColor": "#E54D18"
+    }
+  },
+  "fileExtensions": {
+    "3gp": "_ext_3gp",
+    "3mf": "_ext_3mf",
+    "7z": "_ext_7z",
+    "Dockerfile": "_ext_Dockerfile",
+    "R": "_ext_R",
+    "a": "_ext_a",
+    "aac": "_ext_aac",
+    "ada": "_ext_ada",
+    "adb": "_ext_adb",
+    "ads": "_ext_ads",
+    "ai": "_ext_ai",
+    "aif": "_ext_aif",
+    "aiff": "_ext_aiff",
+    "android": "_ext_android",
+    "ape": "_ext_ape",
+    "apk": "_ext_apk",
+    "apl": "_ext_apl",
+    "app": "_ext_app",
+    "applescript": "_ext_applescript",
+    "asc": "_ext_asc",
+    "asm": "_ext_asm",
+    "ass": "_ext_ass",
+    "astro": "_ext_astro",
+    "avif": "_ext_avif",
+    "awk": "_ext_awk",
+    "azcli": "_ext_azcli",
+    "bak": "_ext_bak",
+    "bash": "_ext_bash",
+    "bat": "_ext_bat",
+    "bazel": "_ext_bazel",
+    "bib": "_ext_bib",
+    "bicep": "_ext_bicep",
+    "bicepparam": "_ext_bicepparam",
+    "bin": "_ext_bin",
+    "blade.php": "_ext_blade_php",
+    "blend": "_ext_blend",
+    "blp": "_ext_blp",
+    "bmp": "_ext_bmp",
+    "bqn": "_ext_bqn",
+    "brep": "_ext_brep",
+    "bz": "_ext_bz",
+    "bz2": "_ext_bz2",
+    "bz3": "_ext_bz3",
+    "bzl": "_ext_bzl",
+    "c": "_ext_c",
+    "c++": "_ext_c__",
+    "cache": "_ext_cache",
+    "cast": "_ext_cast",
+    "cbl": "_ext_cbl",
+    "cc": "_ext_cc",
+    "ccm": "_ext_ccm",
+    "cfc": "_ext_cfc",
+    "cfg": "_ext_cfg",
+    "cfm": "_ext_cfm",
+    "cjs": "_ext_cjs",
+    "clj": "_ext_clj",
+    "cljc": "_ext_cljc",
+    "cljd": "_ext_cljd",
+    "cljs": "_ext_cljs",
+    "cmake": "_ext_cmake",
+    "cob": "_ext_cob",
+    "cobol": "_ext_cobol",
+    "coffee": "_ext_coffee",
+    "conda": "_ext_conda",
+    "conf": "_ext_conf",
+    "config.ru": "_ext_config_ru",
+    "cow": "_ext_cow",
+    "cp": "_ext_cp",
+    "cpp": "_ext_cpp",
+    "cppm": "_ext_cppm",
+    "cpy": "_ext_cpy",
+    "cr": "_ext_cr",
+    "crdownload": "_ext_crdownload",
+    "cs": "_ext_cs",
+    "csh": "_ext_csh",
+    "cshtml": "_ext_cshtml",
+    "cson": "_ext_cson",
+    "csproj": "_ext_csproj",
+    "css": "_ext_css",
+    "csv": "_ext_csv",
+    "cts": "_ext_cts",
+    "cu": "_ext_cu",
+    "cue": "_ext_cue",
+    "cuh": "_ext_cuh",
+    "cxx": "_ext_cxx",
+    "cxxm": "_ext_cxxm",
+    "d": "_ext_d",
+    "d.ts": "_ext_d_ts",
+    "dart": "_ext_dart",
+    "db": "_ext_db",
+    "dconf": "_ext_dconf",
+    "desktop": "_ext_desktop",
+    "diff": "_ext_diff",
+    "dll": "_ext_dll",
+    "doc": "_ext_doc",
+    "dockerignore": "_ext_dockerignore",
+    "docx": "_ext_docx",
+    "dot": "_ext_dot",
+    "download": "_ext_download",
+    "drl": "_ext_drl",
+    "dropbox": "_ext_dropbox",
+    "dump": "_ext_dump",
+    "dwg": "_ext_dwg",
+    "dxf": "_ext_dxf",
+    "ebook": "_ext_ebook",
+    "ebuild": "_ext_ebuild",
+    "edn": "_ext_edn",
+    "eex": "_ext_eex",
+    "ejs": "_ext_ejs",
+    "el": "_ext_el",
+    "elc": "_ext_elc",
+    "elf": "_ext_elf",
+    "elm": "_ext_elm",
+    "eln": "_ext_eln",
+    "env": "_ext_env",
+    "eot": "_ext_eot",
+    "epp": "_ext_epp",
+    "epub": "_ext_epub",
+    "erb": "_ext_erb",
+    "erl": "_ext_erl",
+    "ex": "_ext_ex",
+    "exe": "_ext_exe",
+    "exs": "_ext_exs",
+    "f#": "_ext_f_",
+    "f3d": "_ext_f3d",
+    "f90": "_ext_f90",
+    "fbx": "_ext_fbx",
+    "fcbak": "_ext_fcbak",
+    "fcmacro": "_ext_fcmacro",
+    "fcmat": "_ext_fcmat",
+    "fcparam": "_ext_fcparam",
+    "fcscript": "_ext_fcscript",
+    "fcstd": "_ext_fcstd",
+    "fcstd1": "_ext_fcstd1",
+    "fctb": "_ext_fctb",
+    "fctl": "_ext_fctl",
+    "fdmdownload": "_ext_fdmdownload",
+    "feature": "_ext_feature",
+    "fish": "_ext_fish",
+    "flac": "_ext_flac",
+    "flc": "_ext_flc",
+    "flf": "_ext_flf",
+    "fnl": "_ext_fnl",
+    "fodg": "_ext_fodg",
+    "fodp": "_ext_fodp",
+    "fods": "_ext_fods",
+    "fodt": "_ext_fodt",
+    "frag": "_ext_frag",
+    "fs": "_ext_fs",
+    "fsi": "_ext_fsi",
+    "fsscript": "_ext_fsscript",
+    "fsx": "_ext_fsx",
+    "gcode": "_ext_gcode",
+    "gd": "_ext_gd",
+    "gemspec": "_ext_gemspec",
+    "geom": "_ext_geom",
+    "gif": "_ext_gif",
+    "git": "_ext_git",
+    "glb": "_ext_glb",
+    "gleam": "_ext_gleam",
+    "glsl": "_ext_glsl",
+    "gnumakefile": "_ext_gnumakefile",
+    "go": "_ext_go",
+    "godot": "_ext_godot",
+    "gpr": "_ext_gpr",
+    "gql": "_ext_gql",
+    "gradle": "_ext_gradle",
+    "graphql": "_ext_graphql",
+    "gresource": "_ext_gresource",
+    "gv": "_ext_gv",
+    "gz": "_ext_gz",
+    "h": "_ext_h",
+    "haml": "_ext_haml",
+    "hbs": "_ext_hbs",
+    "heex": "_ext_heex",
+    "hex": "_ext_hex",
+    "hh": "_ext_hh",
+    "hpp": "_ext_hpp",
+    "hrl": "_ext_hrl",
+    "hs": "_ext_hs",
+    "htm": "_ext_htm",
+    "html": "_ext_html",
+    "http": "_ext_http",
+    "huff": "_ext_huff",
+    "hurl": "_ext_hurl",
+    "hx": "_ext_hx",
+    "hxx": "_ext_hxx",
+    "ical": "_ext_ical",
+    "icalendar": "_ext_icalendar",
+    "ico": "_ext_ico",
+    "ics": "_ext_ics",
+    "ifb": "_ext_ifb",
+    "ifc": "_ext_ifc",
+    "ige": "_ext_ige",
+    "iges": "_ext_iges",
+    "igs": "_ext_igs",
+    "image": "_ext_image",
+    "img": "_ext_img",
+    "import": "_ext_import",
+    "info": "_ext_info",
+    "ini": "_ext_ini",
+    "ino": "_ext_ino",
+    "ipynb": "_ext_ipynb",
+    "iso": "_ext_iso",
+    "ixx": "_ext_ixx",
+    "jar": "_ext_jar",
+    "java": "_ext_java",
+    "jl": "_ext_jl",
+    "jpeg": "_ext_jpeg",
+    "jpg": "_ext_jpg",
+    "js": "_ext_js",
+    "json": "_ext_json",
+    "json5": "_ext_json5",
+    "jsonc": "_ext_jsonc",
+    "jsx": "_ext_jsx",
+    "jwmrc": "_ext_jwmrc",
+    "jxl": "_ext_jxl",
+    "kbx": "_ext_kbx",
+    "kdb": "_ext_kdb",
+    "kdbx": "_ext_kdbx",
+    "kdenlive": "_ext_kdenlive",
+    "kdenlivetitle": "_ext_kdenlivetitle",
+    "kicad_dru": "_ext_kicad_dru",
+    "kicad_mod": "_ext_kicad_mod",
+    "kicad_pcb": "_ext_kicad_pcb",
+    "kicad_prl": "_ext_kicad_prl",
+    "kicad_pro": "_ext_kicad_pro",
+    "kicad_sch": "_ext_kicad_sch",
+    "kicad_sym": "_ext_kicad_sym",
+    "kicad_wks": "_ext_kicad_wks",
+    "ko": "_ext_ko",
+    "kpp": "_ext_kpp",
+    "kra": "_ext_kra",
+    "krz": "_ext_krz",
+    "ksh": "_ext_ksh",
+    "kt": "_ext_kt",
+    "kts": "_ext_kts",
+    "lck": "_ext_lck",
+    "leex": "_ext_leex",
+    "less": "_ext_less",
+    "lff": "_ext_lff",
+    "lhs": "_ext_lhs",
+    "lib": "_ext_lib",
+    "license": "_ext_license",
+    "liquid": "_ext_liquid",
+    "lock": "_ext_lock",
+    "log": "_ext_log",
+    "lrc": "_ext_lrc",
+    "lua": "_ext_lua",
+    "luac": "_ext_luac",
+    "luau": "_ext_luau",
+    "m": "_ext_m",
+    "m3u": "_ext_m3u",
+    "m3u8": "_ext_m3u8",
+    "m4a": "_ext_m4a",
+    "m4v": "_ext_m4v",
+    "magnet": "_ext_magnet",
+    "makefile": "_ext_makefile",
+    "markdown": "_ext_markdown",
+    "material": "_ext_material",
+    "md": "_ext_md",
+    "md5": "_ext_md5",
+    "mdx": "_ext_mdx",
+    "mint": "_ext_mint",
+    "mjs": "_ext_mjs",
+    "mk": "_ext_mk",
+    "mkv": "_ext_mkv",
+    "ml": "_ext_ml",
+    "mli": "_ext_mli",
+    "mm": "_ext_mm",
+    "mo": "_ext_mo",
+    "mobi": "_ext_mobi",
+    "mojo": "_ext_mojo",
+    "mov": "_ext_mov",
+    "mp3": "_ext_mp3",
+    "mp4": "_ext_mp4",
+    "mpp": "_ext_mpp",
+    "msf": "_ext_msf",
+    "mts": "_ext_mts",
+    "mustache": "_ext_mustache",
+    "nfo": "_ext_nfo",
+    "nim": "_ext_nim",
+    "nix": "_ext_nix",
+    "norg": "_ext_norg",
+    "nswag": "_ext_nswag",
+    "nu": "_ext_nu",
+    "o": "_ext_o",
+    "obj": "_ext_obj",
+    "odf": "_ext_odf",
+    "odg": "_ext_odg",
+    "odin": "_ext_odin",
+    "odp": "_ext_odp",
+    "ods": "_ext_ods",
+    "odt": "_ext_odt",
+    "oga": "_ext_oga",
+    "ogg": "_ext_ogg",
+    "ogv": "_ext_ogv",
+    "ogx": "_ext_ogx",
+    "opus": "_ext_opus",
+    "org": "_ext_org",
+    "otf": "_ext_otf",
+    "out": "_ext_out",
+    "part": "_ext_part",
+    "patch": "_ext_patch",
+    "pck": "_ext_pck",
+    "pcm": "_ext_pcm",
+    "pdf": "_ext_pdf",
+    "php": "_ext_php",
+    "pl": "_ext_pl",
+    "pls": "_ext_pls",
+    "ply": "_ext_ply",
+    "pm": "_ext_pm",
+    "png": "_ext_png",
+    "po": "_ext_po",
+    "pot": "_ext_pot",
+    "pp": "_ext_pp",
+    "ppt": "_ext_ppt",
+    "pptx": "_ext_pptx",
+    "prisma": "_ext_prisma",
+    "pro": "_ext_pro",
+    "ps1": "_ext_ps1",
+    "psb": "_ext_psb",
+    "psd": "_ext_psd",
+    "psd1": "_ext_psd1",
+    "psm1": "_ext_psm1",
+    "pub": "_ext_pub",
+    "pxd": "_ext_pxd",
+    "pxi": "_ext_pxi",
+    "py": "_ext_py",
+    "pyc": "_ext_pyc",
+    "pyd": "_ext_pyd",
+    "pyi": "_ext_pyi",
+    "pyo": "_ext_pyo",
+    "pyw": "_ext_pyw",
+    "pyx": "_ext_pyx",
+    "qm": "_ext_qm",
+    "qml": "_ext_qml",
+    "qrc": "_ext_qrc",
+    "qss": "_ext_qss",
+    "query": "_ext_query",
+    "r": "_ext_r",
+    "rake": "_ext_rake",
+    "rar": "_ext_rar",
+    "rasi": "_ext_rasi",
+    "razor": "_ext_razor",
+    "rb": "_ext_rb",
+    "res": "_ext_res",
+    "resi": "_ext_resi",
+    "rlib": "_ext_rlib",
+    "rmd": "_ext_rmd",
+    "rproj": "_ext_rproj",
+    "rs": "_ext_rs",
+    "rss": "_ext_rss",
+    "s": "_ext_s",
+    "sass": "_ext_sass",
+    "sbt": "_ext_sbt",
+    "sc": "_ext_sc",
+    "scad": "_ext_scad",
+    "scala": "_ext_scala",
+    "scm": "_ext_scm",
+    "scss": "_ext_scss",
+    "sh": "_ext_sh",
+    "sha1": "_ext_sha1",
+    "sha224": "_ext_sha224",
+    "sha256": "_ext_sha256",
+    "sha384": "_ext_sha384",
+    "sha512": "_ext_sha512",
+    "sig": "_ext_sig",
+    "signature": "_ext_signature",
+    "skp": "_ext_skp",
+    "sldasm": "_ext_sldasm",
+    "sldprt": "_ext_sldprt",
+    "slim": "_ext_slim",
+    "sln": "_ext_sln",
+    "slnx": "_ext_slnx",
+    "slvs": "_ext_slvs",
+    "sml": "_ext_sml",
+    "so": "_ext_so",
+    "sol": "_ext_sol",
+    "spec.js": "_ext_spec_js",
+    "spec.jsx": "_ext_spec_jsx",
+    "spec.ts": "_ext_spec_ts",
+    "spec.tsx": "_ext_spec_tsx",
+    "spx": "_ext_spx",
+    "sql": "_ext_sql",
+    "sqlite": "_ext_sqlite",
+    "sqlite3": "_ext_sqlite3",
+    "srt": "_ext_srt",
+    "ssa": "_ext_ssa",
+    "ste": "_ext_ste",
+    "step": "_ext_step",
+    "stl": "_ext_stl",
+    "stories.js": "_ext_stories_js",
+    "stories.jsx": "_ext_stories_jsx",
+    "stories.mjs": "_ext_stories_mjs",
+    "stories.svelte": "_ext_stories_svelte",
+    "stories.ts": "_ext_stories_ts",
+    "stories.tsx": "_ext_stories_tsx",
+    "stories.vue": "_ext_stories_vue",
+    "stp": "_ext_stp",
+    "strings": "_ext_strings",
+    "styl": "_ext_styl",
+    "sub": "_ext_sub",
+    "sublime": "_ext_sublime",
+    "suo": "_ext_suo",
+    "sv": "_ext_sv",
+    "svelte": "_ext_svelte",
+    "svg": "_ext_svg",
+    "svgz": "_ext_svgz",
+    "svh": "_ext_svh",
+    "swift": "_ext_swift",
+    "t": "_ext_t",
+    "tbc": "_ext_tbc",
+    "tcl": "_ext_tcl",
+    "templ": "_ext_templ",
+    "terminal": "_ext_terminal",
+    "test.js": "_ext_test_js",
+    "test.jsx": "_ext_test_jsx",
+    "test.ts": "_ext_test_ts",
+    "test.tsx": "_ext_test_tsx",
+    "tex": "_ext_tex",
+    "tf": "_ext_tf",
+    "tfvars": "_ext_tfvars",
+    "tgz": "_ext_tgz",
+    "tmpl": "_ext_tmpl",
+    "tmux": "_ext_tmux",
+    "toml": "_ext_toml",
+    "torrent": "_ext_torrent",
+    "tres": "_ext_tres",
+    "ts": "_ext_ts",
+    "tscn": "_ext_tscn",
+    "tsconfig": "_ext_tsconfig",
+    "tsx": "_ext_tsx",
+    "ttf": "_ext_ttf",
+    "twig": "_ext_twig",
+    "txt": "_ext_txt",
+    "txz": "_ext_txz",
+    "typ": "_ext_typ",
+    "typoscript": "_ext_typoscript",
+    "ui": "_ext_ui",
+    "v": "_ext_v",
+    "vala": "_ext_vala",
+    "vert": "_ext_vert",
+    "vh": "_ext_vh",
+    "vhd": "_ext_vhd",
+    "vhdl": "_ext_vhdl",
+    "vi": "_ext_vi",
+    "vim": "_ext_vim",
+    "vsh": "_ext_vsh",
+    "vsix": "_ext_vsix",
+    "vue": "_ext_vue",
+    "wasm": "_ext_wasm",
+    "wav": "_ext_wav",
+    "webm": "_ext_webm",
+    "webmanifest": "_ext_webmanifest",
+    "webp": "_ext_webp",
+    "webpack": "_ext_webpack",
+    "wma": "_ext_wma",
+    "wmv": "_ext_wmv",
+    "woff": "_ext_woff",
+    "woff2": "_ext_woff2",
+    "wrl": "_ext_wrl",
+    "wrz": "_ext_wrz",
+    "wv": "_ext_wv",
+    "wvc": "_ext_wvc",
+    "x": "_ext_x",
+    "xaml": "_ext_xaml",
+    "xcf": "_ext_xcf",
+    "xcplayground": "_ext_xcplayground",
+    "xcstrings": "_ext_xcstrings",
+    "xls": "_ext_xls",
+    "xlsx": "_ext_xlsx",
+    "xm": "_ext_xm",
+    "xml": "_ext_xml",
+    "xpi": "_ext_xpi",
+    "xslt": "_ext_xslt",
+    "xul": "_ext_xul",
+    "xz": "_ext_xz",
+    "yaml": "_ext_yaml",
+    "yml": "_ext_yml",
+    "zig": "_ext_zig",
+    "zip": "_ext_zip",
+    "zsh": "_ext_zsh",
+    "zst": "_ext_zst",
+    "🔥": "_ext___"
+  },
+  "fileNames": {
+    "vite.config.cjs": "_name_vite_config_cjs",
+    "vite.config.cts": "_name_vite_config_cts",
+    "vite.config.js": "_name_vite_config_js",
+    "vite.config.mjs": "_name_vite_config_mjs",
+    "vite.config.mts": "_name_vite_config_mts",
+    "vite.config.ts": "_name_vite_config_ts",
+    ".SRCINFO": "_name__SRCINFO",
+    ".Xauthority": "_name__Xauthority",
+    ".Xresources": "_name__Xresources",
+    ".babelrc": "_name__babelrc",
+    ".bash_profile": "_name__bash_profile",
+    ".bashrc": "_name__bashrc",
+    ".clang-format": "_name__clang_format",
+    ".clang-tidy": "_name__clang_tidy",
+    ".codespellrc": "_name__codespellrc",
+    ".condarc": "_name__condarc",
+    ".dockerignore": "_name__dockerignore",
+    ".ds_store": "_name__ds_store",
+    ".editorconfig": "_name__editorconfig",
+    ".env": "_name__env",
+    ".eslintignore": "_name__eslintignore",
+    ".eslintrc": "_name__eslintrc",
+    ".git-blame-ignore-revs": "_name__git_blame_ignore_revs",
+    ".gitattributes": "_name__gitattributes",
+    ".gitconfig": "_name__gitconfig",
+    ".gitignore": "_name__gitignore",
+    ".gitlab-ci.yml": "_name__gitlab_ci_yml",
+    ".gitmodules": "_name__gitmodules",
+    ".gtkrc-2.0": "_name__gtkrc_2_0",
+    ".gvimrc": "_name__gvimrc",
+    ".justfile": "_name__justfile",
+    ".luacheckrc": "_name__luacheckrc",
+    ".luaurc": "_name__luaurc",
+    ".mailmap": "_name__mailmap",
+    ".nanorc": "_name__nanorc",
+    ".npmignore": "_name__npmignore",
+    ".npmrc": "_name__npmrc",
+    ".nuxtrc": "_name__nuxtrc",
+    ".nvmrc": "_name__nvmrc",
+    ".pnpmfile.cjs": "_name__pnpmfile_cjs",
+    ".pre-commit-config.yaml": "_name__pre_commit_config_yaml",
+    ".prettierignore": "_name__prettierignore",
+    ".prettierrc": "_name__prettierrc",
+    ".prettierrc.cjs": "_name__prettierrc_cjs",
+    ".prettierrc.js": "_name__prettierrc_js",
+    ".prettierrc.json": "_name__prettierrc_json",
+    ".prettierrc.json5": "_name__prettierrc_json5",
+    ".prettierrc.mjs": "_name__prettierrc_mjs",
+    ".prettierrc.toml": "_name__prettierrc_toml",
+    ".prettierrc.yaml": "_name__prettierrc_yaml",
+    ".prettierrc.yml": "_name__prettierrc_yml",
+    ".pylintrc": "_name__pylintrc",
+    ".settings.json": "_name__settings_json",
+    ".vimrc": "_name__vimrc",
+    ".xinitrc": "_name__xinitrc",
+    ".xsession": "_name__xsession",
+    ".zprofile": "_name__zprofile",
+    ".zshenv": "_name__zshenv",
+    ".zshrc": "_name__zshrc",
+    "AUTHORS": "_name_AUTHORS",
+    "AUTHORS.txt": "_name_AUTHORS_txt",
+    "Directory.Build.props": "_name_Directory_Build_props",
+    "Directory.Build.targets": "_name_Directory_Build_targets",
+    "Directory.Packages.props": "_name_Directory_Packages_props",
+    "FreeCAD.conf": "_name_FreeCAD_conf",
+    "Gemfile": "_name_Gemfile",
+    "Jenkinsfile": "_name_Jenkinsfile",
+    "PKGBUILD": "_name_PKGBUILD",
+    "PrusaSlicer.ini": "_name_PrusaSlicer_ini",
+    "PrusaSlicerGcodeViewer.ini": "_name_PrusaSlicerGcodeViewer_ini",
+    "QtProject.conf": "_name_QtProject_conf",
+    "_gvimrc": "_name__gvimrc",
+    "_vimrc": "_name__vimrc",
+    "brewfile": "_name_brewfile",
+    "bspwmrc": "_name_bspwmrc",
+    "build": "_name_build",
+    "build.gradle": "_name_build_gradle",
+    "build.zig.zon": "_name_build_zig_zon",
+    "bun.lock": "_name_bun_lock",
+    "bun.lockb": "_name_bun_lockb",
+    "cantorrc": "_name_cantorrc",
+    "checkhealth": "_name_checkhealth",
+    "cmakelists.txt": "_name_cmakelists_txt",
+    "code_of_conduct": "_name_code_of_conduct",
+    "code_of_conduct.md": "_name_code_of_conduct_md",
+    "commit_editmsg": "_name_commit_editmsg",
+    "commitlint.config.js": "_name_commitlint_config_js",
+    "commitlint.config.ts": "_name_commitlint_config_ts",
+    "compose.yaml": "_name_compose_yaml",
+    "compose.yml": "_name_compose_yml",
+    "config": "_name_config",
+    "containerfile": "_name_containerfile",
+    "copying": "_name_copying",
+    "copying.lesser": "_name_copying_lesser",
+    "docker-compose.yaml": "_name_docker_compose_yaml",
+    "docker-compose.yml": "_name_docker_compose_yml",
+    "dockerfile": "_name_dockerfile",
+    "eslint.config.cjs": "_name_eslint_config_cjs",
+    "eslint.config.js": "_name_eslint_config_js",
+    "eslint.config.mjs": "_name_eslint_config_mjs",
+    "eslint.config.ts": "_name_eslint_config_ts",
+    "ext_typoscript_setup.txt": "_name_ext_typoscript_setup_txt",
+    "favicon.ico": "_name_favicon_ico",
+    "fp-info-cache": "_name_fp_info_cache",
+    "fp-lib-table": "_name_fp_lib_table",
+    "gnumakefile": "_name_gnumakefile",
+    "go.mod": "_name_go_mod",
+    "go.sum": "_name_go_sum",
+    "go.work": "_name_go_work",
+    "gradle-wrapper.properties": "_name_gradle_wrapper_properties",
+    "gradle.properties": "_name_gradle_properties",
+    "gradlew": "_name_gradlew",
+    "groovy": "_name_groovy",
+    "gruntfile.babel.js": "_name_gruntfile_babel_js",
+    "gruntfile.coffee": "_name_gruntfile_coffee",
+    "gruntfile.js": "_name_gruntfile_js",
+    "gruntfile.ts": "_name_gruntfile_ts",
+    "gtkrc": "_name_gtkrc",
+    "gulpfile.babel.js": "_name_gulpfile_babel_js",
+    "gulpfile.coffee": "_name_gulpfile_coffee",
+    "gulpfile.js": "_name_gulpfile_js",
+    "gulpfile.ts": "_name_gulpfile_ts",
+    "hypridle.conf": "_name_hypridle_conf",
+    "hyprland.conf": "_name_hyprland_conf",
+    "hyprlandd.conf": "_name_hyprlandd_conf",
+    "hyprlock.conf": "_name_hyprlock_conf",
+    "hyprpaper.conf": "_name_hyprpaper_conf",
+    "hyprsunset.conf": "_name_hyprsunset_conf",
+    "i18n.config.js": "_name_i18n_config_js",
+    "i18n.config.ts": "_name_i18n_config_ts",
+    "i3blocks.conf": "_name_i3blocks_conf",
+    "i3status.conf": "_name_i3status_conf",
+    "index.theme": "_name_index_theme",
+    "ionic.config.json": "_name_ionic_config_json",
+    "justfile": "_name_justfile",
+    "kalgebrarc": "_name_kalgebrarc",
+    "kdeglobals": "_name_kdeglobals",
+    "kdenlive-layoutsrc": "_name_kdenlive_layoutsrc",
+    "kdenliverc": "_name_kdenliverc",
+    "kritadisplayrc": "_name_kritadisplayrc",
+    "kritarc": "_name_kritarc",
+    "license": "_name_license",
+    "license.md": "_name_license_md",
+    "lxde-rc.xml": "_name_lxde_rc_xml",
+    "lxqt.conf": "_name_lxqt_conf",
+    "makefile": "_name_makefile",
+    "mix.lock": "_name_mix_lock",
+    "mpv.conf": "_name_mpv_conf",
+    "next.config.cjs": "_name_next_config_cjs",
+    "next.config.js": "_name_next_config_js",
+    "next.config.ts": "_name_next_config_ts",
+    "node_modules": "_name_node_modules",
+    "nuxt.config.cjs": "_name_nuxt_config_cjs",
+    "nuxt.config.js": "_name_nuxt_config_js",
+    "nuxt.config.mjs": "_name_nuxt_config_mjs",
+    "nuxt.config.ts": "_name_nuxt_config_ts",
+    "package-lock.json": "_name_package_lock_json",
+    "package.json": "_name_package_json",
+    "platformio.ini": "_name_platformio_ini",
+    "playwright.config.cjs": "_name_playwright_config_cjs",
+    "playwright.config.cts": "_name_playwright_config_cts",
+    "playwright.config.js": "_name_playwright_config_js",
+    "playwright.config.mjs": "_name_playwright_config_mjs",
+    "playwright.config.mts": "_name_playwright_config_mts",
+    "playwright.config.ts": "_name_playwright_config_ts",
+    "pnpm-lock.yaml": "_name_pnpm_lock_yaml",
+    "pnpm-workspace.yaml": "_name_pnpm_workspace_yaml",
+    "pom.xml": "_name_pom_xml",
+    "prettier.config.cjs": "_name_prettier_config_cjs",
+    "prettier.config.js": "_name_prettier_config_js",
+    "prettier.config.mjs": "_name_prettier_config_mjs",
+    "prettier.config.ts": "_name_prettier_config_ts",
+    "procfile": "_name_procfile",
+    "py.typed": "_name_py_typed",
+    "rakefile": "_name_rakefile",
+    "readme": "_name_readme",
+    "readme.md": "_name_readme_md",
+    "rmd": "_name_rmd",
+    "robots.txt": "_name_robots_txt",
+    "security": "_name_security",
+    "security.md": "_name_security_md",
+    "settings.gradle": "_name_settings_gradle",
+    "svelte.config.js": "_name_svelte_config_js",
+    "sxhkdrc": "_name_sxhkdrc",
+    "sym-lib-table": "_name_sym_lib_table",
+    "tailwind.config.js": "_name_tailwind_config_js",
+    "tailwind.config.mjs": "_name_tailwind_config_mjs",
+    "tailwind.config.ts": "_name_tailwind_config_ts",
+    "tmux.conf": "_name_tmux_conf",
+    "tmux.conf.local": "_name_tmux_conf_local",
+    "tsconfig.json": "_name_tsconfig_json",
+    "unlicense": "_name_unlicense",
+    "vagrantfile": "_name_vagrantfile",
+    "vercel.json": "_name_vercel_json",
+    "vitest.config.cjs": "_name_vitest_config_cjs",
+    "vitest.config.cts": "_name_vitest_config_cts",
+    "vitest.config.js": "_name_vitest_config_js",
+    "vitest.config.mjs": "_name_vitest_config_mjs",
+    "vitest.config.mts": "_name_vitest_config_mts",
+    "vitest.config.ts": "_name_vitest_config_ts",
+    "vlcrc": "_name_vlcrc",
+    "webpack": "_name_webpack",
+    "weston.ini": "_name_weston_ini",
+    "workspace": "_name_workspace",
+    "wrangler.jsonc": "_name_wrangler_jsonc",
+    "wrangler.toml": "_name_wrangler_toml",
+    "xdph.conf": "_name_xdph_conf",
+    "xmobarrc": "_name_xmobarrc",
+    "xmobarrc.hs": "_name_xmobarrc_hs",
+    "xmonad.hs": "_name_xmonad_hs",
+    "xorg.conf": "_name_xorg_conf",
+    "xsettingsd.conf": "_name_xsettingsd_conf"
+  },
+  "file": "_default",
+  "folder": "_folder",
+  "folderExpanded": "_folder_open"
+}

@@ -1,0 +1,4 @@
+*.vsix
+SHA256SUMS
+.DS_Store
+node_modules/
